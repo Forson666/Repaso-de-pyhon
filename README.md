@@ -18,3 +18,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
  22. Escribir un programa que lea un caracter e indique si es o no una vocal:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2022.py)
+
+## Ejercicios con ciclos
+
+35.Escribir un programa que calcule el factorial de un número:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2035.py)
+
+38.Escribir un programa que detecte si un número es primo o no:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2038.py)
