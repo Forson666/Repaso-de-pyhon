@@ -17,4 +17,4 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2021.py)
 
  22. Escribir un programa que lea un caracter e indique si es o no una vocal:
-[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio12.py)
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2022.py)
