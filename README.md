@@ -34,3 +34,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 53.Escribir un programa que almacene en una lista los números primos conprendidos entre un rango definido por el ususario:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2053.py)
+
+## Cadenas de caracteres
+
+61.Escribir un programa que lea una frase introducida desde el teclado y la escriba al reves:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2061.py)
+
+63.Decir si una frase es o no un palindromo, es decir si se escribe igual de derecha a izquierda que de izquierda a derecha:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2063.py)
