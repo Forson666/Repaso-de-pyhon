@@ -26,3 +26,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 38.Escribir un programa que detecte si un número es primo o no:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2038.py)
+
+## Ejercicios con colecciones
+
+43.Escribir un programa que llene una lista con los primeros 20 números pares y calcule su suma:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2043.py)
+
+53.Escribir un programa que almacene en una lista los números primos conprendidos entre un rango definido por el ususario:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2053.py)
