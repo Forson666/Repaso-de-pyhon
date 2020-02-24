@@ -58,3 +58,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 80.Escribir un programa que mediante funciones recursivas calcule el número "X" de la serie de fibonacci:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2080.py)
+
+## Módulos
+
+81. Crear un módulo de funciones artméticas que realicen las operaciones de suma, resta, multiplicación, división y potencia de enteros, escribir un programa que importe este módulo y use estas funciones para operar con números capturados desde el teclado:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/tree/master/ejercicio%2081)
+
+82. Crear un módulo que permita validar un número segun la base en la cual este expresado, las bases validad deben ser 2, 8, 10 y 16:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/tree/master/ejercicio%2082)
