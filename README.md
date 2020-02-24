@@ -66,3 +66,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 82. Crear un módulo que permita validar un número segun la base en la cual este expresado, las bases validad deben ser 2, 8, 10 y 16:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/tree/master/ejercicio%2082)
+
+## Archivos
+
+86. Escribir un programa que escriba la lista de caracteres ASCII dentro de un archivo de texto:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicios%2086%20y%2087/ejercicio%2086.py)
+
+87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicios%2086%20y%2087/ejercicio%2087.py)
