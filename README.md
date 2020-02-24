@@ -50,3 +50,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 71.Escribir un programa que reciba un número del 1 al 12 desde el teclado y muestre el número de dias correspondiente al mes que corresponda con ese dia:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2071.py)
+
+## Recursividad
+
+75.Escribir un programa que calcule la potencia de un número usando recursividad:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2075.py)
+
+80.Escribir un programa que mediante funciones recursivas calcule el número "X" de la serie de fibonacci:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2080.py)
