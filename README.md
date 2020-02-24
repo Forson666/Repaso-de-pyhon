@@ -74,3 +74,11 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 
 87. Escribir un programa que lea y muestre en pantalla el archivo generado en el ejercicio anterior:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicios%2086%20y%2087/ejercicio%2087.py)
+
+## Ejercicios varios
+
+90. Escribir un programa que lea un tiempo en horas, minutos y segundos y empiece a cronometrar el tiempo mostrándolo en pantalla hasta llegar al limite leido al inicio:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2090.py)
+
+91. Modifique el ejercicio anterior para que el conteo se haga hacia atrás desde el tiempo leido hasta cero:
+[solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2091.py)
