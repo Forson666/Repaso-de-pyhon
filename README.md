@@ -43,7 +43,7 @@ presentado por: Jheisson Enrique Fortich Suarez - 20172020049
 63.Decir si una frase es o no un palindromo, es decir si se escribe igual de derecha a izquierda que de izquierda a derecha:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2063.py)
 
-## Cadenas de caracteres
+## Funciones y procedimientos
 
 68.Escribir un programa que, mediante una función, calcule el resultado de restar el doble de un número a su cuadrado:
 [solución](https://github.com/Forson666/Repaso-de-pyhon/blob/master/ejercicio%2068.py)
